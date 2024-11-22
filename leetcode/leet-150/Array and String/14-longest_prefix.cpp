@@ -1,3 +1,7 @@
+#include <iostream>
+#include <vector>
+#include <string>
+using namespace std;
 // 14. Longest Common Prefix
 // Solved
 // Easy

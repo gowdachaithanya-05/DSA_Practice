@@ -21,5 +21,3 @@ This repository contains my journey of solving DSA problems from various platfor
 ### Progress and Goals  
 - Regularly solving problems across these platforms and lists to improve my understanding of algorithms and data structures.  
 - Tracking my progress here to stay consistent and organized in my preparation.  
-
----

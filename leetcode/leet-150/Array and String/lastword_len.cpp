@@ -1,3 +1,7 @@
+#include <iostream>
+#include <algorithm>
+using namespace std;
+
 // 58. Length of Last Word
 // Solved
 // Easy

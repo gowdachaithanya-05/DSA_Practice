@@ -1,3 +1,6 @@
+#include <iostream>
+#include <vector>
+using namespace std;
 // 80. Remove Duplicates from Sorted Array II
 // Solved
 // Medium

@@ -1,4 +1,7 @@
-// 189. Rotate Array
+#include <iostream>
+#include <algorithm>
+#include <vector>
+using namespace std;// 189. Rotate Array
 // Solved
 // Medium
 // Topics

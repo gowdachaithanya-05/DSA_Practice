@@ -1,3 +1,7 @@
+#include <iostream>
+#include <algorithm>
+#include <vector>
+using namespace std;
 // 4. Find First and Last Position of Element in Sorted Array
 // Solved
 // Medium

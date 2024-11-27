@@ -1,3 +1,8 @@
+#include <iostream>
+#include <algorithm>
+#include <unordered_map>
+#include <vector>
+using namespace std;
 // 205. Isomorphic Strings
 // Solved
 // Easy

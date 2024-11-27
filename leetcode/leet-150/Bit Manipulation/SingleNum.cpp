@@ -1,3 +1,7 @@
+#include <iostream>
+#include <algorithm>
+#include <vector>
+using namespace std;
 // 136. Single Number
 // Solved
 // Easy

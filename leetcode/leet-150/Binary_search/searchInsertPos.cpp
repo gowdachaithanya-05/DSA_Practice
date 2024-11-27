@@ -1,3 +1,7 @@
+#include <iostream>
+#include <algorithm>
+#include <vector>
+using namespace std;
 // 35. Search Insert Position
 // Solved
 // Easy

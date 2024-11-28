@@ -1,3 +1,8 @@
+#include <iostream>
+#include <algorithm>
+#include <unordered_map>
+#include <vector>
+using namespace std;
 // 242. Valid Anagram
 // Solved
 // Easy

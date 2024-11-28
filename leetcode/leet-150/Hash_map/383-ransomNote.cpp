@@ -1,3 +1,8 @@
+#include <iostream>
+#include <algorithm>
+#include <unordered_map>
+#include <vector>
+using namespace std;
 // 383. Ransom Note
 // Solved
 // Easy

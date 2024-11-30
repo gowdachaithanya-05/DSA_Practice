@@ -1,3 +1,5 @@
+#include <iostream>
+using namespace std;
 // 50. Pow(x, n)
 // Solved
 // Medium

@@ -36,7 +36,7 @@ using namespace std;
 // n is an integer.
 // Either x is not zero or n > 0.
 // -104 <= xn <= 104
-
+//recursive call is used to handle mod 
 class Solution {
 public:
     const int MOD = 1e9 + 7;

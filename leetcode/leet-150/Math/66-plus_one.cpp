@@ -1,3 +1,7 @@
+#include <iostream>
+#include <unordered_map>
+#include <vector>
+using namespace std;
 // 66. Plus One
 // Solved
 // Easy

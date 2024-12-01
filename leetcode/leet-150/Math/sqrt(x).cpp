@@ -1,3 +1,7 @@
+#include <iostream>
+#include <unordered_map>
+#include <vector>
+using namespace std;
 // 69. Sqrt(x)
 // Solved
 // Easy

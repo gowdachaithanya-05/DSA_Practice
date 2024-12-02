@@ -1,3 +1,7 @@
+#include <iostream>
+#include <vector>
+#include <algorithm>
+using namespace std;
 // // Approach 
 // 1. Use two pointers low(beginning of string) and high(end of the string).
 // 2. check if they are alphanumeric, if not skip them.

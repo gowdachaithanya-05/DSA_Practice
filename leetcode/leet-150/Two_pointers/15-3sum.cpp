@@ -1,3 +1,7 @@
+#include <iostream>
+#include <vector>
+#include <algorithm>
+using namespace std;
 // 15. 3Sum
 // Solved
 // Medium

@@ -1,5 +1,4 @@
-// C++ program to illustrate how create a simple class and
-// object
+// OOP example person class
 #include <iostream>
 #include <string>
 

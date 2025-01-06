@@ -1,7 +1,11 @@
-# # Breute force method 
-# """step 1: convert to string 
-#    step 2: add pow of length for all the digit
-#    step 3: return n == sum """
+"""Problem Statement: Given an integer N, return true it is an Armstrong number otherwise return false.
+
+An Amrstrong number is a number that is equal to the sum of its own digits each raised to the power of the number of digits."""
+
+# Brute force method 
+"""step 1: convert to string 
+   step 2: add pow of length for all the digit
+   step 3: return n == sum """
 def arm(n):
     s = str(n)
     l = len(s)

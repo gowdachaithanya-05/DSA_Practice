@@ -10,7 +10,7 @@ def highest_frequency(arr):
         else:
             f = 0  # Reset frequency counter if elements are not the same
         
-        if f > max_freq:  # Update max frequency and number
+        if f > max_freq: 
             max_freq = f
             num = arr[i]
     

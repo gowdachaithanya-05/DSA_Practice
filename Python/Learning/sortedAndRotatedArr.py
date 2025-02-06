@@ -61,8 +61,6 @@ class Solution:
 # increment count when arr[(i+1)%lenth] > arr[i%len] else set count to 1 
 # when count = len retuen true else false
 
-
-
 class Solution:
     def check(self, nums):
         l = len(nums)

@@ -54,4 +54,46 @@ class Solution(object):
         return m
 
 
+# count and sort
 
+class Solution(object):
+    def majorityElement(self, nums):
+        """
+        :type nums: List[int]
+        :rtype: int
+        """
+        nums.sort()
+        count = 0
+        m = nums[0]
+        for i in range(len(nums)-1):
+            if nums[i] == nums[i+1]:
+                count +=1
+                num = nums[i]
+            else:
+                count = 1
+            
+            if count > len(nums)//2:
+                m = nums[i]
+                break
+
+        return m
+        
+# Boyer-Moore Voting Algorithm , Time - O(n), Space - O(1)
+
+class Solution(object):
+    def majorityElement(self, nums):
+        """
+        :type nums: List[int]
+        :rtype: int
+        """
+        m = None
+        count = 0 
+        for num in nums:
+            if count == 0:
+                m = num
+            if num == m:
+                count +=1
+            else:
+                count -=1
+        return m
+            

@@ -24,7 +24,7 @@ def heapSort(lst):
         moveDown(lst,n,i)
     for i in range(n-1, 0, -1): # sorting
         swap(lst, 0, i) # swap the root node with the last 
-        moveDown(lst, i, 0) # maintain heap property for new 
+        moveDown(lst, i, 0) # maintain heap property for new root 
 
 lst = [67, 8, 9, 4, 1, 88]
 heapSort(lst)
